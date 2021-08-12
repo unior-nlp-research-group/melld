@@ -1,3 +1,3 @@
-#Meta-SHARE ENriched LLD
+# Meta-SHARE ENriched LLD
 
 Repository for MELLD from the paper Paving the Way for Enriched Metadata ofLinguistic Linked Data.
