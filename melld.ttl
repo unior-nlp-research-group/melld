@@ -96,7 +96,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_7 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-als> .
@@ -801,8 +800,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_61 ;
-	downloadLocation/comment	"no" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_4 ;
 	ms:contact	<:People_4> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -819,8 +816,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_62 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_5 ;
 	ms:contact	<:People_5> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -837,8 +832,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_63 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_6 ;
 	ms:contact	<:People_6> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -855,8 +848,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_64 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_7 ;
 	ms:contact	<:People_7> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -873,8 +864,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_65 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_8 ;
 	ms:contact	<:People_8> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -891,8 +880,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_66 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_9 ;
 	ms:contact	<:People_9> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -909,8 +896,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_67 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_10 ;
 	ms:contact	<:People_10> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -927,8 +912,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_68 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_11 ;
 	ms:contact	<:People_11> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -945,8 +928,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_69 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_12 ;
 	ms:contact	<:People_12> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -963,8 +944,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_70 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_13 ;
 	ms:contact	<:People_13> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -981,8 +960,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_71 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_14 ;
 	ms:contact	<:People_14> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -1002,9 +979,6 @@
 	ms:annotationSchema	"lemon" ;
 	ms:ontology	"unknown" ;
 	ms:externalReference	"unknown" ;
-	externalReference/comment	"no" ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_15 ;
 	ms:contact	<:People_15> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -1022,8 +996,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_73 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_16 ;
 	ms:contact	<:People_16> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -1040,8 +1012,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_74 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_17 ;
 	ms:contact	<:People_17> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -1058,8 +1028,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_75 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_18 ;
 	ms:contact	<:People_18> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -1076,8 +1044,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_76 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_19 ;
 	ms:contact	<:People_19> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -1094,8 +1060,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_77 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_20 ;
 	ms:contact	<:People_20> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -1112,8 +1076,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_78 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_21 ;
 	ms:contact	<:People_21> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -1130,8 +1092,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_79 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_22 ;
 	ms:contact	<:People_22> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -1148,8 +1108,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_80 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_18 ;
 	ms:contact	<:People_18> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -1166,8 +1124,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_81 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_23 ;
 	ms:contact	<:People_23> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -1184,8 +1140,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_82 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_24 ;
 	ms:contact	<:People_24> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -1202,8 +1156,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_83 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? " ;
 	ms:resourceCreator	:People_25 ;
 	ms:contact	<:People_25> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -1220,7 +1172,6 @@
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_84 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-arb> .
@@ -1236,14 +1187,6 @@
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_85 ;
 	ms:ontology	"rdf" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"It is working properly, although it took some time to answer to 
-SELECT DISTINCT ?p WHERE {
-  ?s ?p ?o
-} LIMIT 100
-
-" ;
 	ms:resourceCreator	:People_26 ;
 	ms:contact	<:People_26> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -1557,8 +1500,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:domain	ms:Linguistics ; 
 	ms:mediaPart	:Media_part_113 ;
 	ms:ontology	"rdfs" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:people_27 ;
 	ms:contact	<:people_27> ;
@@ -1597,8 +1538,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_2 ;
 	ms:mediaPart	:Media_part_116 ;
-	externalReference/comment	"no" ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/asjp> .
 
@@ -1613,8 +1552,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_117 ;
-	downloadLocation/comment	"no" ;
-	accessLocation/comment	"The sparql is working properly" ;
 	ms:resourceCreator	:People_29 ;
 	ms:contact	<:People_29> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -1653,7 +1590,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_120 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/basque-eurowordnet-lemon-lexicon-3-0> .
 
@@ -1964,7 +1900,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:resourceCreator	:people_3 ;
 	ms:domain	ms:Linguistics ; 
 	ms:mediaPart	:Media_part_148 ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_31 ;
 	ms:contact	<:People_31> ;
@@ -1981,7 +1916,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_149 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-bul> .
@@ -1997,7 +1931,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_150 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/catalan-eurowordnet-lemon-lexicon-3-0> .
 
@@ -2013,8 +1946,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_151 ;
 	ms:ontology	"ttl" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:people_32 ;
 	ms:contact	<:people_32> ;
@@ -2030,7 +1961,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:resourceCreator	:people_3 ;
 	ms:domain	ms:Linguistics ; 
 	ms:mediaPart	:Media_part_152 ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_33 ;
 	ms:contact	<:People_33> ;
@@ -2047,7 +1977,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_153 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-cow> .
@@ -2063,7 +1992,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_154 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-cwn> .
@@ -2080,8 +2008,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_155 ;
 	ms:ontology	"ttl" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/clld-afbo> .
 
@@ -2097,8 +2023,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_156 ;
 	ms:ontology	"ttl" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/clld-apics> .
 
@@ -2114,8 +2038,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_157 ;
 	ms:ontology	"ttl" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/clld-ewave> .
 
@@ -2131,8 +2053,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:lcrSubclass	:subclass_2 ;
 	ms:mediaPart	:Media_part_158 ;
 	ms:ontology	"ttl" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/clld-glottolog> .
 
@@ -2148,8 +2068,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:lcrSubclass	:subclass_3 ;
 	ms:mediaPart	:Media_part_159 ;
 	ms:ontology	"ttl" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/clld-phoible> .
 
@@ -2165,8 +2083,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_160 ;
 	ms:ontology	"ttl" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/clld-sails> .
 
@@ -2182,8 +2098,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_161 ;
 	ms:ontology	"ttl" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/clld-wals> .
 
@@ -2199,8 +2113,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_162 ;
 	ms:ontology	"ttl" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/clld-wold> .
 
@@ -2226,7 +2138,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_164 ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_34 ;
 	ms:contact	<:People_34> ;
@@ -2243,7 +2154,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_165 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-hrv> .
@@ -2347,7 +2257,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_174 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-dan> .
@@ -2364,12 +2273,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_175 ;
 	ms:ontology	"owl" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"Its available; I executed SELECT DISTINCT ?p WHERE {
-  ?s ?p ?o
-} LIMIT 100
- and is working properly" ;
 	ms:resourceCreator	:people_35 ;
 	ms:contact	<:people_35> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -2680,7 +2583,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:resourceCreator	:people_3 ;
 	ms:domain	ms:Linguistics ; 
 	ms:mediaPart	:Media_part_201 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_31 ;
 	ms:contact	<:People_31> ;
@@ -2697,7 +2599,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_2 ;
 	ms:mediaPart	:Media_part_202 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_36 ;
 	ms:contact	<:People_36> ;
@@ -2714,8 +2615,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_203 ;
-	externalReference/comment	"no" ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_37 ;
 	ms:contact	<:People_37> ;
@@ -2809,17 +2708,6 @@ SELECT DISTINCT ?p WHERE {
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_211 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"The only sparql query that can be executed is SELECT ?s ?label WHERE {
-  ?s <http://www.w3.org/2000/01/rdf-schema#label> ?label
-} LIMIT 100
-
-I was not able to run a simple SELECT * WHERE {
- ?s ?p ?o
-} LIMIT 10
-
-How should be consider this?
-" ;
 	ms:resourceCreator	:People_38 ;
 	ms:contact	<:People_38> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -2836,7 +2724,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_212 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_38 ;
 	ms:contact	<:People_38> ;
@@ -2864,7 +2751,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_214 ;
-	downloadLocation/comment	"no" ;
 	ms:resourceCreator	:People_39 ;
 	ms:contact	<:People_39> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/eurosentiment> .
@@ -3001,7 +2887,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_226 ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_40 ;
 	ms:contact	<:People_40> ;
@@ -3018,7 +2903,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_227 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-fin> .
@@ -4938,7 +4822,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_376 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/galician-eurowordnet-lemon-lexicon-3-0> .
 
@@ -4953,7 +4836,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_377 ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_41 ;
 	ms:contact	<:People_41> ;
@@ -4971,8 +4853,6 @@ How should be consider this?
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_378 ;
 	ms:ontology	"owl" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/gold> .
 
@@ -4987,7 +4867,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_379 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_42 ;
 	ms:contact	<:People_42> ;
@@ -5004,7 +4883,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_380 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_38 ;
 	ms:contact	<:People_38> ;
@@ -5021,7 +4899,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_2 ;
 	ms:mediaPart	:Media_part_381 ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_43 ;
 	ms:contact	<:People_43> ;
@@ -5269,7 +5146,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_403 ;
-	downloadLocation/comment	"no" ;
 	ms:resourceCreator	:People_44 ;
 	ms:contact	<:People_44> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/greek-wordnet> .
@@ -5285,7 +5161,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_404 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-ell> .
@@ -5323,7 +5198,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_407 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-heb> .
@@ -5350,7 +5224,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_409 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/iate-rdf> .
 
@@ -5365,7 +5238,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_410 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-isl> .
@@ -5392,7 +5264,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_412 ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_38 ;
 	ms:contact	<:People_38> ;
@@ -5409,7 +5280,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_2 ;
 	ms:mediaPart	:Media_part_413 ;
-	downloadLocation/comment	"no" ;
 	ms:resourceCreator	:People_45 ;
 	ms:contact	<:People_45> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/ids> .
@@ -5447,7 +5317,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_4 ;
 	ms:mediaPart	:Media_part_416 ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_46 ;
 	ms:contact	<:People_46> ;
@@ -5465,8 +5334,6 @@ How should be consider this?
 	ms:lcrSubclass	:subclass_4 ;
 	ms:mediaPart	:Media_part_417 ;
 	ms:ontology	"owl" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_47 ;
 	ms:contact	<:People_47> ;
@@ -5483,7 +5350,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_418 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-iwn> .
@@ -5499,7 +5365,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_419 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_48 ;
 	ms:contact	<:People_48> ;
@@ -5516,7 +5381,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_420 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-jpn> .
@@ -5652,8 +5516,6 @@ How should be consider this?
 	ms:resourceCreator	:people_3 ;
 	ms:domain	ms:Linguistics ; 
 	ms:mediaPart	:Media_part_432 ;
-	externalReference/comment	"no" ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_36 ;
 	ms:contact	<:People_36> ;
@@ -5900,8 +5762,6 @@ How should be consider this?
 	ms:mediaPart	:Media_part_453 ;
 	ms:annotationSchema	"lemon" ;
 	ms:ontology	"ttl" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/lemonuby> .
 
@@ -5918,8 +5778,6 @@ How should be consider this?
 	ms:mediaPart	:Media_part_454 ;
 	ms:annotationSchema	"lemon" ;
 	ms:ontology	"rdf, ttl" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/lemonwiktionary> .
 
@@ -6006,7 +5864,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_461 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:People_50 ;
 	ms:contact	<:People_50> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -6037,8 +5894,6 @@ How should be consider this?
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_463 ;
 	ms:ontology	"owl" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_51 ;
 	ms:contact	<:People_51> ;
@@ -6077,8 +5932,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_4 ;
 	ms:mediaPart	:Media_part_466 ;
-	externalReference/comment	"no" ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_52 ;
 	ms:contact	<:People_52> ;
@@ -6095,8 +5948,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_467 ;
-	externalReference/comment	"no" ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_53 ;
 	ms:contact	<:People_53> ;
@@ -6113,7 +5964,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_468 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_54 ;
 	ms:contact	<:People_54> ;
@@ -6130,7 +5980,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_469 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:people_2 ;
 	ms:contact	<:people_2> ;
@@ -6146,7 +5995,6 @@ How should be consider this?
 	ms:resourceCreator	:people_3 ;
 	ms:domain	ms:Linguistics ; 
 	ms:mediaPart	:Media_part_470 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/masc> .
 
@@ -6161,7 +6009,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_2 ;
 	ms:mediaPart	:Media_part_471 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_29 ;
 	ms:contact	<:People_29> ;
@@ -6178,8 +6025,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_4 ;
 	ms:mediaPart	:Media_part_472 ;
-	externalReference/comment	"no" ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/metashare> .
 
@@ -6194,7 +6039,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_473 ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_40 ;
 	ms:contact	<:People_40> ;
@@ -6212,8 +6056,6 @@ How should be consider this?
 	ms:mediaPart	:Media_part_474 ;
 	ms:ontology	"unknown" ;
 	ms:externalReference	"unknown" ;
-	externalReference/comment	"unknown" ;
-	downloadLocation/comment	"no" ;
 	ms:resourceCreator	:People_55 ;
 	ms:contact	<:People_55> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -6242,8 +6084,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:mediaPart	:Media_part_476 ;
 	ms:ontology	"xml" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/multext-east> .
 
@@ -6258,7 +6098,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_477 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-mcr> .
@@ -6274,7 +6113,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_478 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-ita> .
@@ -6289,8 +6127,6 @@ How should be consider this?
 	ms:resourceCreator	:people_3 ;
 	ms:domain	ms:Linguistics ; 
 	ms:mediaPart	:Media_part_479 ;
-	externalReference/comment	"no" ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_56 ;
 	ms:contact	<:People_56> ;
@@ -6351,7 +6187,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_484 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-nor> .
@@ -6379,8 +6214,6 @@ How should be consider this?
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_486 ;
 	ms:ontology	"owl" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:people_2 ;
 	ms:contact	<:people_2> ;
@@ -6400,8 +6233,6 @@ How should be consider this?
 	ms:lcrSubclass	:subclass_2 ;
 	ms:mediaPart	:Media_part_487 ;
 	ms:ontology	"owl" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:people_2 ;
 	ms:contact	<:people_2> ;
@@ -6418,7 +6249,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_488 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
@@ -6435,7 +6265,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_489 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-nld> .
@@ -6451,7 +6280,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_490 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-por> .
@@ -6533,8 +6361,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_497 ;
-	externalReference/comment	"no" ;
-	downloadLocation/comment	"no" ;
 	ms:resourceCreator	:People_57 ;
 	ms:contact	<:People_57> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/panlex> .
@@ -6562,8 +6388,6 @@ How should be consider this?
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_499 ;
 	ms:ontology	"ttl" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_58 ;
 	ms:contact	<:People_58> ;
@@ -6580,7 +6404,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_500 ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_59 ;
 	ms:contact	<:People_59> ;
@@ -6597,7 +6420,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_501 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-fas> .
@@ -6613,7 +6435,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_3 ;
 	ms:mediaPart	:Media_part_502 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:People_60 ;
 	ms:contact	<:People_60> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/phoible> .
@@ -6629,7 +6450,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_503 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-pol> .
@@ -6690,8 +6510,6 @@ How should be consider this?
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_508 ;
 	ms:ontology	"owl" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_61 ;
 	ms:contact	<:people_61> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -6785,7 +6603,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_516 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-eng> .
@@ -6812,7 +6629,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_2 ;
 	ms:mediaPart	:Media_part_518 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_62 ;
 	ms:contact	<:People_62> ;
@@ -6828,9 +6644,7 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_519 ;
-	ms:ontology	"owl" ;
-	externalReference/comment	"no" ;
-	downloadLocation/comment	"no" .
+	ms:ontology	"owl" .
 
 :resource_520
 	a	ms:LexicalConceptualResource ;
@@ -6844,8 +6658,6 @@ How should be consider this?
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_520 ;
 	ms:ontology	"rdfs" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_63 ;
 	ms:contact	<:People_63> ;
@@ -6861,8 +6673,6 @@ How should be consider this?
 	ms:resourceCreator	:people_3 ;
 	ms:domain	ms:Linguistics ; 
 	ms:mediaPart	:Media_part_521 ;
-	externalReference/comment	"no" ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_56 ;
 	ms:contact	<:People_56> ;
@@ -6890,7 +6700,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_523 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-ron> .
@@ -6927,8 +6736,6 @@ How should be consider this?
 	ms:resourceCreator	:people_3 ;
 	ms:domain	ms:Linguistics ; 
 	ms:mediaPart	:Media_part_526 ;
-	externalReference/comment	"no" ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_56 ;
 	ms:contact	<:People_56> ;
@@ -6945,18 +6752,6 @@ How should be consider this?
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_527 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"partially as we can run only some query examples. The query SELECT * WHERE {
-  ?s ?p ?o
-} LIMIT 100
-can be executed, however it seems that the only predicate the dataset uses is http://www.w3.org/1999/02/22-rdf-syntax-ns#rest 
-
-For each consecutive and overlapping pair of events (n, o) in s, the following statement is added to the graph:
-
-n.string-value <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> o.string-value .
-
-In this case I think we can consider it as working and available. 
-" ;
 	ms:resourceCreator	:People_64 ;
 	ms:contact	<:People_64> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -6973,19 +6768,6 @@ In this case I think we can consider it as working and available.
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_2 ;
 	ms:mediaPart	:Media_part_528 ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"The query SELECT * WHERE {
-  ?s ?p ?o
-} LIMIT 100
-can be executed, however it seems that the only predicate the dataset uses is http://www.w3.org/1999/02/22-rdf-syntax-ns#rest which's semantics is that
-
-For each consecutive and overlapping pair of events (n, o) in s, the following statement is added to the graph:
-
-n.string-value <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> o.string-value .
-
-In this case I think we can consider it as working and available. 
-
-However, this dataset and the following have the same sparql endpoint and the same dataset link. I gues we can consider them as one?" ;
 	ms:resourceCreator	:People_64 ;
 	ms:contact	<:People_64> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -7013,7 +6795,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_530 ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/sanskrit-english-lexicon> .
 
@@ -7028,8 +6809,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_531 ;
-	externalReference/comment	"no" ;
-	downloadLocation/comment	"no" ;
 	ms:resourceCreator	:People_66 ;
 	ms:contact	<:People_66> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/semanticquran> .
@@ -7045,7 +6824,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_532 ;
-	downloadLocation/comment	"no" ;
 	ms:resourceCreator	:People_67 ;
 	ms:contact	<:People_67> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/sentiws> .
@@ -7086,7 +6864,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_535 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_68 ;
 	ms:contact	<:People_68> ;
@@ -7103,7 +6880,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_536 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-slk> .
@@ -7119,7 +6895,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_537 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-slv> .
@@ -7312,7 +7087,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_554 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-swe> .
@@ -7330,20 +7104,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:mediaPart	:Media_part_555 ;
 	ms:ontology	"unknown" ;
 	ms:externalReference	"unknown" ;
-	externalReference/comment	"no" ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"The query SELECT * WHERE {
-  ?s ?p ?o
-} LIMIT 100
-can be executed, however it seems that the only predicate the dataset uses is http://www.w3.org/1999/02/22-rdf-syntax-ns#rest which's semantics is that
-
-For each consecutive and overlapping pair of events (n, o) in s, the following statement is added to the graph:
-
-n.string-value <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> o.string-value .
-
-In this case I think we can consider it as working and available. 
-
-However, this dataset and the following have the same sparql endpoint and the same dataset link. I gues we can consider them as one?" ;
 	ms:resourceCreator	:People_64 ;
 	ms:contact	<:People_64> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -7360,7 +7120,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:resourceCreator	:people_3 ;
 	ms:domain	ms:Linguistics ; 
 	ms:mediaPart	:Media_part_556 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_69 ;
 	ms:contact	<:People_69> ;
@@ -7399,8 +7158,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_559 ;
-	externalReference/comment	"no" ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_70 ;
 	ms:contact	<:People_70> ;
@@ -7417,7 +7174,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_560 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-tha> .
@@ -7444,7 +7200,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_562 ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_71 ;
 	ms:contact	<:People_71> ;
@@ -7777,7 +7532,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:resourceCreator	:people_3 ;
 	ms:domain	ms:Linguistics ; 
 	ms:mediaPart	:Media_part_586 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_87 ;
 	ms:contact	<:People_87> ;
@@ -8705,7 +8459,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_2 ;
 	ms:mediaPart	:Media_part_653 ;
-	downloadLocation/comment	"no" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_31 ;
 	ms:contact	<:People_31> ;
@@ -8722,7 +8475,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_654 ;
-	downloadLocation/comment	"no" ;
 	ms:resourceCreator	:People_128 ;
 	ms:contact	<:People_128> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/wiktionary-dbpedia-org> .
@@ -8738,7 +8490,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_655 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-fra> .
@@ -8755,9 +8506,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_656 ;
 	ms:ontology	"ttl" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"yes" ;
-	accessLocation/comment	"This however queries only the ontology not the dataset, the  dataset is not available" ;
 	ms:resourceCreator	:People_129 ;
 	ms:contact	<:People_129> ;
 	ms:distributonForm	"ms:accessibleThroughQuery" ;
@@ -8775,8 +8523,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_657 ;
 	ms:ontology	"ttl" ;
-	externalReference/comment	"yes" ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_130 ;
 	ms:contact	<:People_130> ;
@@ -8793,7 +8539,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_658 ;
-	downloadLocation/comment	"yes" ;
 	ms:resourceCreator	:people_1 ;
 	ms:contact	<:people_1> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/omwn-msa> .
@@ -8809,7 +8554,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_659 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_131 ;
 	ms:contact	<:People_131> ;
@@ -8826,7 +8570,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_660 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:People_38 ;
 	ms:contact	<:People_38> ;
@@ -8843,8 +8586,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_661 ;
-	externalReference/comment	"no" ;
-	downloadLocation/comment	"no" ;
 	ms:resourceCreator	:People_132 ;
 	ms:contact	<:People_132> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/wold> .
@@ -8860,7 +8601,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_0 ;
 	ms:mediaPart	:Media_part_662 ;
-	downloadLocation/comment	"no" ;
 	ms:resourceCreator	:People_133 ;
 	ms:contact	<:People_133> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/xlid-lexica> .
@@ -8876,7 +8616,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_663 ;
-	downloadLocation/comment	"yes" ;
 	ms:accessLocation	"unknown" ;
 	ms:resourceCreator	:people_134 ;
 	ms:contact	<:people_134> ;
@@ -8904,7 +8643,6 @@ However, this dataset and the following have the same sparql endpoint and the sa
 	ms:domain	ms:Linguistics ; 
 	ms:lcrSubclass	:subclass_1 ;
 	ms:mediaPart	:Media_part_665 ;
-	downloadLocation/comment	"no" ;
 	ms:resourceCreator	:People_135 ;
 	ms:contact	<:People_135> ;
 	prov:wasDerivedFrom	<https://lod-cloud.net/dataset/zhishi-me> .
