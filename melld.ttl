@@ -27372,15 +27372,20 @@ datacite:hasIdentifier	zhishi-me .
 
 :subclass_0 
 	a	ms:LCRSubclass ;
-	rdf:label	lexicons and dictionaries .:subclass_1 
+	rdf:label	lexicons and dictionaries .
+:subclass_1 
 	a	ms:LCRSubclass ;
-	rdf:label	Terminologies, Thesauri and Knowledge Bases .:subclass_2 
+	rdf:label	Terminologies, Thesauri and Knowledge Bases .
+:subclass_2 
 	a	ms:LCRSubclass ;
-	rdf:label	linguistic data categories .:subclass_3 
+	rdf:label	linguistic data categories .
+:subclass_3 
 	a	ms:LCRSubclass ;
-	rdf:label	typological databases .:subclass_4 
+	rdf:label	typological databases .
+:subclass_4 
 	a	ms:LCRSubclass ;
 	rdf:label	linguistic resource metadata .
+
 
 :Distributions_0
 	a	ms:DatasetDistribution ;
