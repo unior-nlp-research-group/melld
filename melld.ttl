@@ -6,7 +6,7 @@
 @prefix rdfs: <https://www.w3.org/TR/rdf-schema#> .
 @prefix prov: <https://www.w3.org/TR/prov-o> .
 @prefix schema: <https://schema.org> .
-@prefix :: <https://nlpgroup.unior.it/melld#> .
+@prefix : <https://nlpgroup.unior.it/melld#> .
 
 :resource_0
 	a	ms:Corpus ;
