@@ -32090,160 +32090,257 @@ datacite:hasIdentifier	zhishi-me .
 	rdf:label	'triples' .
 :Urls_0
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_1
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_2
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/page/set/apertium> ;
 	rdfs:comment	"Not working ".
 :Urls_3
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/apertium/sparql-editor/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_4
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconIT> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconCA> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetCA-IT> ;
 	rdfs:comment	"Working ".
 :Urls_5
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_6
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconEN> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconCA > ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetEN-CA> ;
 	rdfs:comment	"Working ".
 :Urls_7
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_8
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconEN> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconES> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetEN-ES> ;
 	rdfs:comment	"Working ".
 :Urls_9
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_10
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconEN> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconGL> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetEN-GL> ;
 	rdfs:comment	"Working ".
 :Urls_11
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_12
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconEO> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconCA > ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetEO-CA> ;
 	rdfs:comment	"Working ".
 :Urls_13
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_14
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconEO> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconEN> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetEO-EN> ;
 	rdfs:comment	"Working ".
 :Urls_15
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_16
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconEO> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconES> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetEO-ES> ;
 	rdfs:comment	"Working ".
 :Urls_17
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_18
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconEO> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconFR > ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetEO-FR> ;
 	rdfs:comment	"Working ".
 :Urls_19
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_20
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconES> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconAN > ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetES-AN> ;
 	rdfs:comment	"Working ".
 :Urls_21
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_22
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconES> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconAST > ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetES-AST> ;
 	rdfs:comment	"Working ".
 :Urls_23
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_24
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconES> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconCA > ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetES-CA> ;
 	rdfs:comment	"Working ".
 :Urls_25
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_26
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconES> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconGL > ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetES-GL> ;
 	rdfs:comment	"Working ".
 :Urls_27
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_28
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconES> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconPT > ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetES-PT> ;
 	rdfs:comment	"Working ".
 :Urls_29
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_30
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconES> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconRO > ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetES-RO> ;
 	rdfs:comment	"Working ".
 :Urls_31
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_32
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconEU> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconEN > ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetEU-EN> ;
 	rdfs:comment	"Working ".
 :Urls_33
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_34
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconEU> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconES > ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetEU-ES> ;
 	rdfs:comment	"Working ".
 :Urls_35
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_36
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconFR> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconCA > ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetFR-CA> ;
 	rdfs:comment	"Working ".
 :Urls_37
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_38
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconFR> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconES > ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetFR-ES> ;
 	rdfs:comment	"Working ".
 :Urls_39
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_40
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconOC> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconCA > ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetOC-CA> ;
 	rdfs:comment	"Working ".
 :Urls_41
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_42
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconOC> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconES > ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetOC-ES> ;
 	rdfs:comment	"Working ".
 :Urls_43
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_44
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconPT> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconCA > ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetPT-CA> ;
 	rdfs:comment	"Working ".
 :Urls_45
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_46
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconPT> ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/lexiconGL > ;
+	schema:url	<http://linguistic.linkeddata.es/data/id/apertium/tranSetPT-GL> ;
 	rdfs:comment	"Working ".
 :Urls_47
 	a	schema:URL ;
+	schema:url	<http://linguistic.linkeddata.es/sparql/> ;
 	rdfs:comment	"This SPARQL is working properly, however it is the same for all apertium datasets. I am not able to query just one of them bacause I dodn't know their graph. So i was wondering how to query only one of them? ") .
 :Urls_48
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_49
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_50
 	a	schema:URL ;
+	schema:url	<http://vocab.getty.edu/ontology.rdf> ;
 	rdfs:comment	"Working ".
 :Urls_51
 	a	schema:URL ;
+	schema:url	<http://vocab.getty.edu/dataset/aat/explicit.zip> ;
 	rdfs:comment	"Working ".
 :Urls_52
 	a	schema:URL ;
+	schema:url	<http://vocab.getty.edu/sparql> ;
 	rdfs:comment	"It is working properly, although it took some time to answer to 
 SELECT DISTINCT ?p WHERE {
   ?s ?p ?o
@@ -32252,147 +32349,196 @@ SELECT DISTINCT ?p WHERE {
 ") .
 :Urls_53
 	a	schema:URL ;
+	schema:url	<http://www.purl.org/ASIt/RDF/asit-schema.rdf> ;
 	rdfs:comment	"Working ".
 :Urls_54
 	a	schema:URL ;
+	schema:url	<http://www.purl.org/asit/RDF> ;
 	rdfs:comment	"Working ".
 :Urls_55
 	a	schema:URL ;
+	schema:url	<https://harald.clld.org/asjp/ontologies/asjp.owl> ;
 	rdfs:comment	"Not working ".
 :Urls_56
 	a	schema:URL ;
+	schema:url	<https://harald.clld.org/asjp/downloads/renderings.ttl.zip> ;
 	rdfs:comment	"Not working ".
 :Urls_57
 	a	schema:URL ;
+	schema:url	<https://babelnet.org/data/babelnet-2.0-lemon-IRIs.tar.xz> ;
 	rdfs:comment	"Not working ".
 :Urls_58
 	a	schema:URL ;
+	schema:url	<https://babelnet.org/sparql/> ;
 	rdfs:comment	"The sparql is working properly") .
 :Urls_59
 	a	schema:URL ;
+	schema:url	<https://raw.githubusercontent.com/martavillegas/EuroWordNetLemon/master/eus-30-lmf.xml.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_60
 	a	schema:URL ;
+	schema:url	<http://brown.nlp2rdf.org/dataid.ttl> ;
 	rdfs:comment	"Not working ".
 :Urls_61
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_62
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_63
 	a	schema:URL ;
+	schema:url	<https://raw.githubusercontent.com/martavillegas/EuroWordNetLemon/master/cat-30-lmf.xml.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_64
 	a	schema:URL ;
+	schema:url	<https://github.com/ont-app/cedict/blob/master/data/cedict-schema.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_65
 	a	schema:URL ;
+	schema:url	<https://github.com/ont-app/cedict> ;
 	rdfs:comment	"Working ".
 :Urls_66
 	a	schema:URL ;
+	schema:url	<http://data.sfb673.org/corpora/chat_game_corpus.ttl> ;
 	rdfs:comment	"Not working ".
 :Urls_67
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_68
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_69
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_70
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_71
 	a	schema:URL ;
+	schema:url	<https://afbo.info/void.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_72
 	a	schema:URL ;
+	schema:url	<http://afbo.info/static/download/afbo-dataset.n3.gz> ;
 	rdfs:comment	"Not working ".
 :Urls_73
 	a	schema:URL ;
+	schema:url	<https://apics-online.info/void.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_74
 	a	schema:URL ;
+	schema:url	<https://apics-online.info/static/download/apics-dataset.n3.gz> ;
 	rdfs:comment	"Not working ".
 :Urls_75
 	a	schema:URL ;
+	schema:url	<https://ewave-atlas.org/void.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_76
 	a	schema:URL ;
+	schema:url	<https://ewave-atlas.org/static/download/ewave-dataset.n3.gz> ;
 	rdfs:comment	"Not working ".
 :Urls_77
 	a	schema:URL ;
+	schema:url	<https://glottolog.org/void.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_78
 	a	schema:URL ;
+	schema:url	<https://glottolog.org/static/download/glottolog-dataset.n3.gz> ;
 	rdfs:comment	"Not working ".
 :Urls_79
 	a	schema:URL ;
+	schema:url	<http://phoible.org/void.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_80
 	a	schema:URL ;
+	schema:url	<http://phoible.org/static/download/phoible-dataset.n3.gz> ;
 	rdfs:comment	"Not working ".
 :Urls_81
 	a	schema:URL ;
+	schema:url	<https://sails.clld.org/void.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_82
 	a	schema:URL ;
+	schema:url	<http://sails.clld.org/static/download/SAILS-dataset.n3.gz> ;
 	rdfs:comment	"Not working ".
 :Urls_83
 	a	schema:URL ;
+	schema:url	<https://wals.info/void.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_84
 	a	schema:URL ;
+	schema:url	<https://wals.info/static/download/wals-dataset.n3.gz> ;
 	rdfs:comment	"Not working ".
 :Urls_85
 	a	schema:URL ;
+	schema:url	<https://wold.clld.org/void.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_86
 	a	schema:URL ;
+	schema:url	<https://wold.clld.org/static/download/wold-dataset.n3.gz> ;
 	rdfs:comment	"Not working ".
 :Urls_87
 	a	schema:URL ;
+	schema:url	<http://purl.org/vocabularies/cornetto/synset-iets-2-noun> ;
 	rdfs:comment	"Not working ".
 :Urls_88
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_89
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_90
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_91
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_92
 	a	schema:URL ;
+	schema:url	<http://kaiko.getalp.org/static/lemon/dbN/Ary.owl> ;
 	rdfs:comment	"Working ".
 :Urls_93
 	a	schema:URL ;
+	schema:url	<http://kaiko.getalp.org/about-dbnary/download/> ;
 	rdfs:comment	"Working ".
 :Urls_94
 	a	schema:URL ;
+	schema:url	<http://kaiko.getalp.org//sparql> ;
 	rdfs:comment	"Its available; I executed SELECT DISTINCT ?p WHERE {
   ?s ?p ?o
 } LIMIT 100
  and is working properly") .
 :Urls_95
 	a	schema:URL ;
+	schema:url	<http://downloads.dbpedia.org/2015-04/ext/nlp/abstracts/en> ;
 	rdfs:comment	"Working ".
 :Urls_96
 	a	schema:URL ;
+	schema:url	<https://ckannet-storage.commondatastorage.googleapis.com/2014-10-29T16:26:34.291Z/dataid.ttl> ;
 :Urls_97
 	a	schema:URL ;
+	schema:url	<http://apps.yovisto.com/labs/ner-benchmarks/data/dbpedia-spotlight-nif.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_98
 	a	schema:URL ;
+	schema:url	<https://ckannet-storage.commondatastorage.googleapis.com/2012-10-18T110739/model.lemon.rdf.zip> ;
 	rdfs:comment	"Not working ".
 :Urls_99
 	a	schema:URL ;
+	schema:url	<https://lemon-model.net/lexica/de-gaap/lexicon.en> ;
 	rdfs:comment	"Not working ".
 :Urls_100
 	a	schema:URL ;
+	schema:url	<http://data.lider-project.eu/emn/emn.nt.gz> ;
 	rdfs:comment	"Working ".
 :Urls_101
 	a	schema:URL ;
+	schema:url	<http://data.lider-project.eu/emn/sparql/> ;
 	rdfs:comment	"The only sparql query that can be executed is SELECT ?s ?label WHERE {
   ?s <http://www.w3.org/2000/01/rdf-schema#label> ?label
 } LIMIT 100
@@ -32405,297 +32551,403 @@ How should be consider this?
 ") .
 :Urls_102
 	a	schema:URL ;
+	schema:url	<https://en-word.net/static/english-wordnet-2019.ttl.gz> ;
 	rdfs:comment	"Working ".
 :Urls_103
 	a	schema:URL ;
+	schema:url	<http://tomcat-eurosentiment.paradigmatecnologico.com/dataset/static/corpora/graph000030_000001.nq> ;
 	rdfs:comment	"Not working ".
 :Urls_104
 	a	schema:URL ;
+	schema:url	<http://virtuoso-eurosentiment.paradigmatecnologico.com/sparql> ;
 :Urls_105
 	a	schema:URL ;
+	schema:url	<http://data.sfb673.org/fiesta/fiesta-1.0.ttl> ;
 	rdfs:comment	"Not working ".
 :Urls_106
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_107
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_108
 	a	schema:URL ;
+	schema:url	<https://raw.githubusercontent.com/martavillegas/EuroWordNetLemon/master/glg-30-lmf.v2.xml.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_109
 	a	schema:URL ;
+	schema:url	<https://commondatastorage.googleapis.com/ckannet-storage/2012-09-02T184411/gemet-annotated.rdf> ;
 	rdfs:comment	"Not working ".
 :Urls_110
 	a	schema:URL ;
+	schema:url	<http://linguistics-ontology.org/gold-2010.owl> ;
 	rdfs:comment	"Working ".
 :Urls_111
 	a	schema:URL ;
+	schema:url	<http://linguistics-ontology.org/gold-2010.owl> ;
 	rdfs:comment	"Working ".
 :Urls_112
 	a	schema:URL ;
+	schema:url	<http://www.languagelibrary.eu/owl/geodomainWN/eng/geonames-synset> ;
 	rdfs:comment	"Working ".
 :Urls_113
 	a	schema:URL ;
+	schema:url	<https://raw.githubusercontent.com/globalwordnet/cili/master/ili.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_114
 	a	schema:URL ;
+	schema:url	<https://glottolog.org/static/download/glottolog-language.n3.gz> ;
 	rdfs:comment	"Not working ".
 :Urls_115
 	a	schema:URL ;
+	schema:url	<http://wordnet.okfn.gr/> ;
 	rdfs:comment	"Not working ".
 :Urls_116
 	a	schema:URL ;
+	schema:url	<http://wordnet.okfn.gr:8890/sparql/> ;
 :Urls_117
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_118
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_119
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_120
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_121
 	a	schema:URL ;
+	schema:url	<http://tbx2rdf.lider-project.eu/data/iate/iate.nt.gz> ;
 	rdfs:comment	"Working ".
 :Urls_122
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_123
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_124
 	a	schema:URL ;
+	schema:url	<http://monnetproject.deri.ie/ietflang/de-Latn-DE> ;
 	rdfs:comment	"Not working ".
 :Urls_125
 	a	schema:URL ;
+	schema:url	<http://mlode.nlp2rdf.org/datasets/ids.nt.gz> ;
 	rdfs:comment	"Not working ".
 :Urls_126
 	a	schema:URL ;
+	schema:url	<http://mlode.nlp2rdf.org/sparql> ;
 :Urls_127
 	a	schema:URL ;
+	schema:url	<http://www.datcatinfo.net/datcat/DC-1333> ;
 	rdfs:comment	"Not working ".
 :Urls_128
 	a	schema:URL ;
+	schema:url	<http://www.sfs.uni-tuebingen.de/N/Alida/images/isocat/isocatOWL.owl> ;
 	rdfs:comment	"Working ".
 :Urls_129
 	a	schema:URL ;
+	schema:url	<http://www.sfs.uni-tuebingen.de/nalida/images/isocat/isocatOWL.owl> ;
 	rdfs:comment	"Working ".
 :Urls_130
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_131
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_132
 	a	schema:URL ;
+	schema:url	<http://www.languagelibrary.eu/owl/italWordNet15/download/italWordNet15.tar.gz> ;
 	rdfs:comment	"Working ".
 :Urls_133
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_134
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_135
 	a	schema:URL ;
+	schema:url	<https://ckannet-storage.commondatastorage.googleapis.com/2015-09-22T10:28:30.244Z/dataid.ttl> ;
 	rdfs:comment	"Not working ".
 :Urls_136
 	a	schema:URL ;
+	schema:url	<http://apps.yovisto.com/labs/ner-benchmarks/data/kore50-nif-2014-11-03.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_137
 	a	schema:URL ;
+	schema:url	<https://lemon-model.net/lemon.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_138
 	a	schema:URL ;
+	schema:url	<https://lemon-model.net/lemon.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_139
 	a	schema:URL ;
+	schema:url	<https://lemon-model.net/lemon.rdf> ;
 	rdfs:comment	"Working ".
 :Urls_140
 	a	schema:URL ;
+	schema:url	<http://lemon-model.net/lexica/wiktionary_en/en/en.nt.gz> ;
 	rdfs:comment	"Working ".
 :Urls_141
 	a	schema:URL ;
+	schema:url	<http://www.ss-framework.com/owl/ssf.n3> ;
 	rdfs:comment	"Working ".
 :Urls_142
 	a	schema:URL ;
+	schema:url	<http://www.ss-framework.com/sparql> ;
 :Urls_143
 	a	schema:URL ;
+	schema:url	<http://lexvo.org/ontology> ;
 	rdfs:comment	"Working ".
 :Urls_144
 	a	schema:URL ;
+	schema:url	<http://www.lexvo.org/resources/lexvo_latest.rdf.gz> ;
 	rdfs:comment	"Working ".
 :Urls_145
 	a	schema:URL ;
+	schema:url	<http://eelst.cs.unibo.it/apps/LODE/source?url=http://art.uniroma2.it/ontologies/lime> ;
 	rdfs:comment	"Not working ".
 :Urls_146
 	a	schema:URL ;
+	schema:url	<http://eelst.cs.unibo.it/apps/LODE/source?url=http://art.uniroma2.it/ontologies/lime> ;
 	rdfs:comment	"Not working ".
 :Urls_147
 	a	schema:URL ;
+	schema:url	<http://www.lingvoj.org/ontology.rdf> ;
 	rdfs:comment	"Not working ".
 :Urls_148
 	a	schema:URL ;
+	schema:url	<http://www.lingvoj.org/lingvoj.rdf> ;
 	rdfs:comment	"Not working ".
 :Urls_149
 	a	schema:URL ;
+	schema:url	<https://ner.vse.cz/datasets/linkedhypernyms/dataset-description/> ;
 	rdfs:comment	"Working ".
 :Urls_150
 	a	schema:URL ;
+	schema:url	<http://www.acoli.informatik.uni-frankfurt.de/resources/germlex/> ;
 	rdfs:comment	"Working ".
 :Urls_151
 	a	schema:URL ;
+	schema:url	<http://www.anc.org/data/masc/downloads/data-download/> ;
 	rdfs:comment	"Working ".
 :Urls_152
 	a	schema:URL ;
+	schema:url	<http://lcl.uniroma1.it/MASC-NEWS/MASC-3.0.0.rdf.tar.gz> ;
 	rdfs:comment	"Working ".
 :Urls_153
 	a	schema:URL ;
+	schema:url	<http://gilmere.upf.edu/corpus_data/rdf/IULA-UPF-MetashareRecordsOntology.ttl> ;
 	rdfs:comment	"Not working ".
 :Urls_154
 	a	schema:URL ;
+	schema:url	<http://gilmere.upf.edu/corpus_data/rdf/IULA-UPF-MetashareRecordsOntology.ttl> ;
 	rdfs:comment	"Not working ".
 :Urls_155
 	a	schema:URL ;
+	schema:url	<http://data.sfb673.org/mexico/mexico-1.0.ttl> ;
 	rdfs:comment	"Not working ".
 :Urls_156
 	a	schema:URL ;
+	schema:url	<http://mlode.nlp2rdf.org/datasets/mlsa.nt.gz> ;
 	rdfs:comment	"Not working ".
 :Urls_157
 	a	schema:URL ;
+	schema:url	<http://mlode.nlp2rdf.org/sparql> ;
 :Urls_158
 	a	schema:URL ;
+	schema:url	<http://nl.ijs.si/ME/Vault/V4/msd/xml/schema/> ;
 	rdfs:comment	"Working ".
 :Urls_159
 	a	schema:URL ;
+	schema:url	<http://nl.ijs.si/ME/Vault/V4/doc/index.html#sec-msd> ;
 	rdfs:comment	"Working ".
 :Urls_160
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_161
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_162
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_163
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_164
 	a	schema:URL ;
+	schema:url	<https://ckannet-storage.commondatastorage.googleapis.com/2014-10-29T16:27:30.087Z/dataid.ttl> ;
 	rdfs:comment	"Not working ".
 :Urls_165
 	a	schema:URL ;
+	schema:url	<https://raw.githubusercontent.com/AKSW/n3-collection/master/News-100.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_166
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_167
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_168
 	a	schema:URL ;
+	schema:url	<http://purl.org/olia/olia.owl> ;
 	rdfs:comment	"Working ".
 :Urls_169
 	a	schema:URL ;
+	schema:url	<http://purl.org/olia/olia.owl> ;
 	rdfs:comment	"Working ".
 :Urls_170
 	a	schema:URL ;
+	schema:url	<http://www.acoli.informatik.uni-frankfurt.de/resources/discourse/> ;
 	rdfs:comment	"Working ".
 :Urls_171
 	a	schema:URL ;
+	schema:url	<http://www.acoli.informatik.uni-frankfurt.de/resources/discourse/> ;
 	rdfs:comment	"Working ".
 :Urls_172
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/all+xml.zip> ;
 	rdfs:comment	"Working ".
 :Urls_173
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_174
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_175
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_176
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_177
 	a	schema:URL ;
+	schema:url	<http://ld.panlex.org/downloads/releases/2013-02-14/2013-02-14-panlex-ontology.ttl> ;
 	rdfs:comment	"Not working ".
 :Urls_178
 	a	schema:URL ;
+	schema:url	<http://ld.panlex.org/downloads/releases/2013-02-14/2013-02-14-panlex-dump.nt> ;
 	rdfs:comment	"Not working ".
 :Urls_179
 	a	schema:URL ;
+	schema:url	<https://ld.panlex.org/sparql> ;
 :Urls_180
 	a	schema:URL ;
+	schema:url	<https://github.com/martavillegas/ParoleSimpleLemon/blob/master/ParoleOntologyLod.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_181
 	a	schema:URL ;
+	schema:url	<https://github.com/martavillegas/ParoleSimpleLemon/blob/master/ParoleOntologyLod.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_182
 	a	schema:URL ;
+	schema:url	<http://pdev.org.uk/pdevlemonfiles/pdevlemon.nt.tar.gz> ;
 	rdfs:comment	"Not working ".
 :Urls_183
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_184
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_185
 	a	schema:URL ;
+	schema:url	<https://github.com/phoible/dev> ;
 	rdfs:comment	"Working ".
 :Urls_186
 	a	schema:URL ;
+	schema:url	<http://linked-data.org/sparql> ;
 :Urls_187
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_188
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_189
 	a	schema:URL ;
+	schema:url	<http://premon.fbk.eu/ontology/core.html> ;
 	rdfs:comment	"Working ".
 :Urls_190
 	a	schema:URL ;
+	schema:url	<https://premon.fbk.eu/download.html> ;
 	rdfs:comment	"Working ".
 :Urls_191
 	a	schema:URL ;
+	schema:url	<http://premon.fbk.eu/sparql> ;
 :Urls_192
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_193
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_194
 	a	schema:URL ;
+	schema:url	<http://psi.oasis-open.org/iso/639/639-core.rdf> ;
 	rdfs:comment	"Working ".
 :Urls_195
 	a	schema:URL ;
+	schema:url	<http://mlode.nlp2rdf.org/datasets/qvoc.owl.ttl.gz> ;
 	rdfs:comment	"Not working ".
 :Urls_196
 	a	schema:URL ;
+	schema:url	<http://mlode.nlp2rdf.org/datasets/semanticquran.nt.gz> ;
 	rdfs:comment	"Not working ".
 :Urls_197
 	a	schema:URL ;
+	schema:url	<http://semanticquran.aksw.org/sparql> ;
 :Urls_198
 	a	schema:URL ;
+	schema:url	<http://www.w3.org/2006/03/wn/wn20/schemas/wnfull.rdfs> ;
 	rdfs:comment	"Working ".
 :Urls_199
 	a	schema:URL ;
+	schema:url	<http://www.w3.org/2006/03/wn/wn20/download/wn20full.zip> ;
 	rdfs:comment	"Working ".
 :Urls_200
 	a	schema:URL ;
+	schema:url	<https://ckannet-storage.commondatastorage.googleapis.com/2014-10-29T16:24:39.177Z/dataid.ttl> ;
 	rdfs:comment	"Not working ".
 :Urls_201
 	a	schema:URL ;
+	schema:url	<https://raw.githubusercontent.com/AKSW/n3-collection/master/Reuters-128.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_202
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_203
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_204
 	a	schema:URL ;
+	schema:url	<https://ckannet-storage.commondatastorage.googleapis.com/2014-10-29T16:27:07.064Z/dataid.ttl> ;
 	rdfs:comment	"Not working ".
 :Urls_205
 	a	schema:URL ;
+	schema:url	<https://raw.githubusercontent.com/AKSW/n3-collection/master/RSS-500.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_206
 	a	schema:URL ;
+	schema:url	<http://spraakbanken.gu.se/rdf/saldo.rdf> ;
 	rdfs:comment	"Working ".
 :Urls_207
 	a	schema:URL ;
+	schema:url	<http://demo.spraakdata.gu.se/ltlod/test/> ;
 	rdfs:comment	"partially as we can run only some query examples. The query SELECT * WHERE {
   ?s ?p ?o
 } LIMIT 100
@@ -32709,9 +32961,11 @@ In this case I think we can consider it as working and available.
 ") .
 :Urls_208
 	a	schema:URL ;
+	schema:url	<http://spraakbanken.gu.se/rdf/saldom.rdf> ;
 	rdfs:comment	"Working ".
 :Urls_209
 	a	schema:URL ;
+	schema:url	<http://demo.spraakdata.gu.se/ltlod/test/> ;
 	rdfs:comment	"The query SELECT * WHERE {
   ?s ?p ?o
 } LIMIT 100
@@ -32726,45 +32980,62 @@ In this case I think we can consider it as working and available.
 However, this dataset and the following have the same sparql endpoint and the same dataset link. I gues we can consider them as one?") .
 :Urls_210
 	a	schema:URL ;
+	schema:url	<http://rdf.ontosema.org/lang/language.owl#> ;
 :Urls_211
 	a	schema:URL ;
+	schema:url	<http://data.kasabi.com/dataset/sanskrit-english-lexicon> ;
 	rdfs:comment	"Not working ".
 :Urls_212
 	a	schema:URL ;
+	schema:url	<http://mlode.nlp2rdf.org/datasets/qvoc.owl.ttl.gz> ;
 	rdfs:comment	"Not working ".
 :Urls_213
 	a	schema:URL ;
+	schema:url	<http://quransemanticdata.com/Resource/> ;
+	schema:url	<http://mlode.nlp2rdf.org/datasets/semanticquran.nt.gz> ;
 	rdfs:comment	"Not working ".
 :Urls_214
 	a	schema:URL ;
+	schema:url	<http://semanticquran.aksw.org/sparql> ;
 :Urls_215
 	a	schema:URL ;
+	schema:url	<https://wortschatz.informatik.uni-leipzig.de/download/SentiWS_v1.8c.zip> ;
 	rdfs:comment	"Not working ".
 :Urls_216
 	a	schema:URL ;
+	schema:url	<http://mlode.nlp2rdf.org/sparql> ;
 :Urls_217
 	a	schema:URL ;
+	schema:url	<http://sli.uvigo.gal/download/SLI_Galnet/SLI_Galnet_RDF_3.0.26.tar.gz> ;
 	rdfs:comment	"Working ".
 :Urls_218
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_219
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_220
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_221
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_222
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_223
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_224
 	a	schema:URL ;
+	schema:url	<http://spraakbanken.gu.se/rdf/swefn.rdf> ;
 	rdfs:comment	"Working ".
 :Urls_225
 	a	schema:URL ;
+	schema:url	<http://demo.spraakdata.gu.se/ltlod/test/> ;
 	rdfs:comment	"The query SELECT * WHERE {
   ?s ?p ?o
 } LIMIT 100
@@ -32779,81 +33050,109 @@ In this case I think we can consider it as working and available.
 However, this dataset and the following have the same sparql endpoint and the same dataset link. I gues we can consider them as one?") .
 :Urls_226
 	a	schema:URL ;
+	schema:url	<http://srcmf.org/> ;
 	rdfs:comment	"Working ".
 :Urls_227
 	a	schema:URL ;
+	schema:url	<http://languagelink.let.uu.nl/tds/ontology/LinguisticOntology.owl> ;
 	rdfs:comment	"Not working ".
 :Urls_228
 	a	schema:URL ;
+	schema:url	<http://languagelink.let.uu.nl/tds/ontology/LinguisticOntology.owl> ;
 	rdfs:comment	"Not working ".
 :Urls_229
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_230
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_231
 	a	schema:URL ;
+	schema:url	<http://thesaurus.datenwissen.de/hervorragend#term> ;
 	rdfs:comment	"Not working ".
 :Urls_232
 	a	schema:URL ;
+	schema:url	<https://github.com/UniversalDependencies/UD_English-ESL/archive/master.zip> ;
 	rdfs:comment	"Working ".
 :Urls_233
 	a	schema:URL ;
+	schema:url	<http://wiki-link.nlp2rdf.org/dumps/> ;
 	rdfs:comment	"Not working ".
 :Urls_234
 	a	schema:URL ;
+	schema:url	<http://downloads.dbpedia.org/wiktionary/> ;
 	rdfs:comment	"Not working ".
 :Urls_235
 	a	schema:URL ;
+	schema:url	<http://wiktionary.dbpedia.org/sparql> ;
 :Urls_236
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_237
 	a	schema:URL ;
+	schema:url	<http://wordnet.rkbexplorer.com/models/void.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_238
 	a	schema:URL ;
+	schema:url	<http://wordnet.rkbexplorer.com/models/dump.tgz> ;
 	rdfs:comment	"Working ".
 :Urls_239
 	a	schema:URL ;
+	schema:url	<http://wordnet.rkbexplorer.com/sparql/> ;
 	rdfs:comment	"This however queries only the ontology not the dataset, the  dataset is not available") .
 :Urls_240
 	a	schema:URL ;
+	schema:url	<https://github.com/jrvosse/wordnet-3.0-rdf/blob/master/void.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_241
 	a	schema:URL ;
+	schema:url	<https://github.com/jrvosse/wordnet-3.0-rdf> ;
 	rdfs:comment	"Working ".
 :Urls_242
 	a	schema:URL ;
+	schema:url	<http://compling.hss.ntu.edu.sg/omw/> ;
 	rdfs:comment	"Working ".
 :Urls_243
 	a	schema:URL ;
+	schema:url	<http://omwn.linguistic-lod.org/sparql> ;
 :Urls_244
 	a	schema:URL ;
+	schema:url	<http://wordnet-rdf.princeton.edu/wn31.nt.gz> ;
 	rdfs:comment	"Working ".
 :Urls_245
 	a	schema:URL ;
+	schema:url	<https://raw.githubusercontent.com/jmccrae/wn-wiki-instances/master/ili-map-dbpedia.ttl> ;
 	rdfs:comment	"Working ".
 :Urls_246
 	a	schema:URL ;
+	schema:url	<http://wold.livingsources.org/vocabulary/19.rdf> ;
 	rdfs:comment	"Not working ".
 :Urls_247
 	a	schema:URL ;
+	schema:url	<http://mlode.nlp2rdf.org/datasets/wold.nt.gz> ;
 	rdfs:comment	"Not working ".
 :Urls_248
 	a	schema:URL ;
+	schema:url	<http://mlode.nlp2rdf.org/sparql> ;
 :Urls_249
 	a	schema:URL ;
+	schema:url	<http://km.aifb.kit.edu/resources/xLiD-lexica.nt> ;
 	rdfs:comment	"Not working ".
 :Urls_250
 	a	schema:URL ;
+	schema:url	<http://km.aifb.kit.edu/services/xlike-lexicon/> ;
 :Urls_251
 	a	schema:URL ;
+	schema:url	<http://finto.fi/rest/v1/ysa/data?format=text/turtle> ;
 	rdfs:comment	"Working ".
 :Urls_252
 	a	schema:URL ;
+	schema:url	<http://zhishi.me/> ;
 	rdfs:comment	"Not working ".
 :Urls_253
 	a	schema:URL ;
+	schema:url	<http://zhishi.me/sparql> ;
 
 :Language_0
 	a	dct:LinguisticSystem ;
