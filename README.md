@@ -1,6 +1,6 @@
 # Meta-SHARE Enriched LLD
 
-Repository for the resource MELLD from the paper Paving the Way for Enriched Metadata ofLinguistic Linked Data.
+Repository for the resource MELLD from the paper Paving the Way for Enriched Metadata of Linguistic Linked Data.
 
 _Authors :_ 
  - Maria Pia di Buono,
